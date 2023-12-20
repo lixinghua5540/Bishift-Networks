@@ -1,7 +1,7 @@
 # Bishift-Networks
 Title: *Bishift Networks for Thick Cloud Removal with Multitemporal Remote Sensing Images* [[paper]](https://www.hindawi.com/journals/ijis/2023/9953198/)<br>
 
-Long C, Li X, Jing Y, et al. Bishift Networks for Thick Cloud Removal with Multitemporal Remote Sensing Images. International Journal of Intelligent Systems, 2023, 2023: 9953198.
+Long C, Li X, Jing Y, et al. Bishift Networks for Thick Cloud Removal with Multitemporal Remote Sensing Images. International Journal of Intelligent Systems, vol. 2023, pp. 1-17, Art. no 9953198, 2023.
 <br>
 <br>
 ***Introduction***<br>
